@@ -1,0 +1,26 @@
+.square{
+
+	background-color: black;
+	color: black;
+	display: inline-block;
+	margin: 1px;
+	border: 0px;
+}
+#reset{
+	display: block;
+	margin: auto;
+}
+.grid{
+	height: 960px;
+	width:  960px;
+	position: relative;
+	margin: 20px auto;
+
+}
+h2{
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+
+}
+
